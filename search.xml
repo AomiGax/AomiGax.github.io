@@ -43,22 +43,12 @@
       </tags>
   </entry>
   <entry>
-    <title>HTML笔记</title>
-    <url>/2020/06/15/HTML%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="HTML笔记-2020-06-05"><a href="#HTML笔记-2020-06-05" class="headerlink" title="HTML笔记 2020-06-05"></a>HTML笔记 2020-06-05</h2><h3 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h3><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>AomiGa's BLOG<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"js/vue.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    helloworld</span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>HTML笔记</category>
-      </categories>
-      <tags>
-        <tag>HTML</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Markdown笔记</title>
     <url>/2020/06/15/Markdown%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="Markdown笔记-2020-06-04"><a href="#Markdown笔记-2020-06-04" class="headerlink" title="Markdown笔记 2020-06-04"></a>Markdown笔记 2020-06-04</h2><p><strong>超链接：</strong><code>ctrl+k</code> </p>
+    <content><![CDATA[<h2 id="Markdown笔记-2020-06-04"><a href="#Markdown笔记-2020-06-04" class="headerlink" title="Markdown笔记 2020-06-04"></a>Markdown笔记 2020-06-04</h2><p>这里是Markdown语法的简单笔记，欢迎阅读~</p>
+<a id="more"></a>
+
+<p><strong>超链接：</strong><code>ctrl+k</code> </p>
 <p><strong>代码段：</strong><code>ctrl+shift+k</code></p>
 <p><strong>代码块：</strong> <code>英文tab键上方的按键</code></p>
 ]]></content>
@@ -67,6 +57,22 @@
       </categories>
       <tags>
         <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HTML笔记</title>
+    <url>/2020/06/15/HTML%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h2 id="HTML笔记-2020-06-05"><a href="#HTML笔记-2020-06-05" class="headerlink" title="HTML笔记 2020-06-05"></a>HTML笔记 2020-06-05</h2><p>我会在这里记录关于HTML的学习笔记，欢迎大家阅读哦~</p>
+<a id="more"></a>
+
+<h3 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h3><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>AomiGa's BLOG<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"js/vue.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    helloworld</span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>HTML笔记</category>
+      </categories>
+      <tags>
+        <tag>HTML</tag>
       </tags>
   </entry>
 </search>
