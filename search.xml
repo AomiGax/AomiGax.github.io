@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Google Chrome浏览器使用方法</title>
+    <url>/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="Google-Chrome浏览器使用方法"><a href="#Google-Chrome浏览器使用方法" class="headerlink" title="Google Chrome浏览器使用方法"></a>Google Chrome浏览器使用方法</h2><h3 id="1-简述"><a href="#1-简述" class="headerlink" title="1. 简述"></a>1. 简述</h3><p>Google Chrome是Google开发的一款简单、高效的Web浏览工具，速度快、安全性高。但是因为搜索引擎被墙，所以无法直接使用浏览器的搜索功能，但仍可以访问链接。</p>
+<a id="more"></a>
+
+<h3 id="2-界面简介"><a href="#2-界面简介" class="headerlink" title="2. 界面简介"></a>2. 界面简介</h3><p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607074506644.png" alt="标签栏"></p>
+<p>上图红色框中是Chrome浏览器的标签栏，打开的网页标签均在这里显示；</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607074920092.png" alt="菜单栏"></p>
+<p>上图红色框中，从左到右依次是：后退、前进、重新加载、搜索栏、收藏、插件列表、个人账户、设置；</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607075043131.png" alt="i收藏栏"></p>
+<p>上图红色框中是收藏的网页，可以直接点击进入；</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607075143788.png" alt="搜索框"></p>
+<p>上图红色框内的搜索框，与菜单栏中的搜索框一样，无任何区别；</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607075253042.png" alt="常用网站"></p>
+<p>上图红色框中是经常访问的网址，由Chrome自动收录；</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607080815772.png" alt="自定义"></p>
+<p>上图红色框中，是可以自定义浏览器的背景图的，我现在这个是没有自定义的纯白色，通过这个可以定义自己喜欢的图片。</p>
+<h3 id="3-无VPN使用方法"><a href="#3-无VPN使用方法" class="headerlink" title="3. 无VPN使用方法"></a>3. 无VPN使用方法</h3><p>因为Google搜索引擎在国内无法使用，所以常规的搜索在未连接VPN时是无法直接使用的。但是链接地址是仍然可以访问的。因此我们可以通过访问其他搜索引擎的链接地址实现搜索功能。</p>
+<p>可以看到，如果不连接VPN直接搜索会在长时间的等待后出现下方这个界面。</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607080647859.png" alt="Chrome直接搜索"></p>
+<p>在搜索框输入你想用的链接地址即可使用。</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607075940420.png" alt="搜索必应"></p>
+<p>如上图所示，在搜索框中输入：<u><strong>bing.com</strong></u>，点击回车，即可进入到如下界面。然后开始搜索就可以啦。</p>
+<p><img src="/2020/06/15/Google%20Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/image-20200607080108639.png" alt="必应搜索"></p>
+<p>给出几个国内常用的浏览器搜索引擎：</p>
+<ol>
+<li>bing.com 微软必应（强烈推荐，广告特别少）</li>
+<li>baidu.com 百度</li>
+<li>sogou.com 搜狗</li>
+<li>yodao.com 有道（查单词的搜索引擎）</li>
+</ol>
+<h3 id="4-有VPN的使用方式"><a href="#4-有VPN的使用方式" class="headerlink" title="4. 有VPN的使用方式"></a>4. 有VPN的使用方式</h3><p>当连接VPN后，那操作就可以怎么开心怎么来了。Google的界面做的是真的很舒适。</p>
+<h3 id="5-免费的VPN使用方法"><a href="#5-免费的VPN使用方法" class="headerlink" title="5. 免费的VPN使用方法"></a>5. 免费的VPN使用方法</h3><p>VPN（也就是俗称的翻墙），一般的费用比较高，列出一个Github上免费使用VPN的一个开源项目，可以跟着他的教程学习VPN的使用。（Github本身是一个全世界的一个开源社区，也就是里面的都系都可以免费自用和商用。）</p>
+<p>项目地址：<strong><u><a href="https://github.com/Alvin9999/new-pac/wiki" target="_blank" rel="noopener">https://github.com/Alvin9999/new-pac/wiki</a></u></strong></p>
+<p>个人建议多选几个VPN工具和帐号，鬼知道什么时候VPN的服务器就更换或者瘫痪了。最常用的VPN工具是<strong>SSR</strong>和<strong>SS</strong>，这个项目中同时也提供了<strong>Goflyway</strong>和<strong>v2ray</strong>，都是很好的VPN工具，可以全都下载，选择性使用。</p>
+<p>按照教程中的步骤，配置好服务器和其他参数，选择<strong>全局模式</strong>就可以使用了。</p>
+<p>当然了，毕竟没收费，所以速度、稳定程度都无法保证。如果有需要可以选择在<strong>Just My Socks</strong>的网站（外网，比较慢）上购买VPN的服务器和节点。新用户有优惠，大约20元人民币，如果没有按时续费，这个优惠就没了。其他最便宜的是40元人民币。当然，可以选择其他的商家进行购买，刚才那个只是个人使用过的，感觉比较OK。</p>
+<p><strong>如果有技术和能力，可以选择自己搭建服务器！！！</strong></p>
+]]></content>
+      <categories>
+        <category>浏览器</category>
+      </categories>
+      <tags>
+        <tag>Chrome</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>C语言笔记</title>
+    <url>/2020/06/15/C%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Vue学习笔记</title>
+    <url>/2020/06/15/Vue%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h2 id="Vue学习笔记-2020-06-04"><a href="#Vue学习笔记-2020-06-04" class="headerlink" title="Vue学习笔记 2020-06-04"></a>Vue学习笔记 2020-06-04</h2><p>这是一篇Vue的学习笔记。</p>
+<a id="more"></a>
+
+<h3 id="Vue的下载与导入"><a href="#Vue的下载与导入" class="headerlink" title="Vue的下载与导入"></a>Vue的下载与导入</h3><p><strong>下载：</strong>下载vue文件，网上一找一大片，<a href="https://vuejs.org/js/vue.min.js" target="_blank" rel="noopener">vue下载</a></p>
+<p><strong>导入：</strong><code>&lt;script src=&quot;vue.js路径&quot;&gt;&lt;/script&gt;</code></p>
+<h1 id="Vue学习笔记-2020-06-05"><a href="#Vue学习笔记-2020-06-05" class="headerlink" title="Vue学习笔记 2020-06-05"></a>Vue学习笔记 2020-06-05</h1><h3 id="1-声明式渲染：文本插值"><a href="#1-声明式渲染：文本插值" class="headerlink" title="1. 声明式渲染：文本插值"></a>1. 声明式渲染：文本插值</h3><figure class="highlight js"><table><tr><td class="code"><pre><span class="line">&lt;div id=<span class="string">"app"</span>&gt;</span><br><span class="line">    &lt;p&gt;&#123;&#123; message &#125;&#125;&lt;<span class="regexp">/p&gt;</span></span><br><span class="line"><span class="regexp">&lt;/</span>div&gt;</span><br><span class="line"></span><br><span class="line">&lt;script&gt;</span><br><span class="line">        <span class="keyword">new</span> Vue(&#123;</span><br><span class="line">        el: <span class="string">'#app'</span>,</span><br><span class="line">        data: &#123;</span><br><span class="line">            message: <span class="string">'Hello Vue.js!'</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;)</span><br><span class="line">&lt;<span class="regexp">/script&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="2-声明式渲染：绑定元素"><a href="#2-声明式渲染：绑定元素" class="headerlink" title="2. 声明式渲染：绑定元素"></a>2. 声明式渲染：绑定元素</h3><figure class="highlight js"><table><tr><td class="code"><pre><span class="line">&lt;div id=<span class="string">"app-2"</span>&gt;</span><br><span class="line">  &lt;span v-bind:title=<span class="string">"message"</span>&gt;</span><br><span class="line">    鼠标悬停几秒钟查看此处动态绑定的提示信息！</span><br><span class="line">  &lt;<span class="regexp">/span&gt;</span></span><br><span class="line"><span class="regexp">&lt;/</span>div&gt;</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> app2 = <span class="keyword">new</span> Vue(&#123;</span><br><span class="line">  el: <span class="string">'#app-2'</span>,</span><br><span class="line">  data: &#123;</span><br><span class="line">    message: <span class="string">'页面加载于 '</span> + <span class="keyword">new</span> <span class="built_in">Date</span>().toLocaleString()</span><br><span class="line">  &#125;</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-条件与循环：条件"><a href="#3-条件与循环：条件" class="headerlink" title="3. 条件与循环：条件"></a>3. 条件与循环：条件</h3><figure class="highlight gml"><table><tr><td class="code"><pre><span class="line">&lt;<span class="keyword">div</span> <span class="symbol">id</span>=<span class="string">"app-3"</span>&gt;</span><br><span class="line">  &lt;p v-<span class="keyword">if</span>=<span class="string">"seen"</span>&gt;现在你看到我了&lt;/p&gt;</span><br><span class="line">&lt;/<span class="keyword">div</span>&gt;</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> app3 = new Vue(&#123;</span><br><span class="line">  el: <span class="string">'#app-3'</span>,</span><br><span class="line">  data: &#123;</span><br><span class="line">    seen: <span class="literal">true</span></span><br><span class="line">  &#125;</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-条件与循环：循环"><a href="#4-条件与循环：循环" class="headerlink" title="4. 条件与循环：循环"></a>4. 条件与循环：循环</h3><figure class="highlight vim"><table><tr><td class="code"><pre><span class="line">&lt;div id=<span class="string">"app-4"</span>&gt;</span><br><span class="line">  <span class="symbol">&lt;ol&gt;</span></span><br><span class="line">    &lt;li v-<span class="keyword">for</span>=<span class="string">"todo in todos"</span>&gt;</span><br><span class="line">      &#123;&#123; todo.text &#125;&#125;</span><br><span class="line">    &lt;/li&gt;</span><br><span class="line">  &lt;/<span class="keyword">ol</span>&gt;</span><br><span class="line">&lt;/div&gt;</span><br><span class="line"></span><br><span class="line">var app4 = <span class="keyword">new</span> Vue(&#123;</span><br><span class="line">  <span class="keyword">e</span><span class="variable">l:</span> <span class="string">'#app-4'</span>,</span><br><span class="line">  dat<span class="variable">a:</span> &#123;</span><br><span class="line">    todo<span class="variable">s:</span> [</span><br><span class="line">      &#123; tex<span class="variable">t:</span> <span class="string">'学习 JavaScript'</span> &#125;,</span><br><span class="line">      &#123; tex<span class="variable">t:</span> <span class="string">'学习 Vue'</span> &#125;,</span><br><span class="line">      &#123; tex<span class="variable">t:</span> <span class="string">'整个牛项目'</span> &#125;</span><br><span class="line">    ]</span><br><span class="line">  &#125;</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>Vue笔记</category>
+      </categories>
+      <tags>
+        <tag>Vue</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown笔记</title>
+    <url>/2020/06/15/Markdown%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h2 id="Markdown笔记-2020-06-04"><a href="#Markdown笔记-2020-06-04" class="headerlink" title="Markdown笔记 2020-06-04"></a>Markdown笔记 2020-06-04</h2><p><strong>超链接：</strong><code>ctrl+k</code> </p>
+<p><strong>代码段：</strong><code>ctrl+shift+k</code></p>
+<p><strong>代码块：</strong> <code>英文tab键上方的按键</code></p>
+]]></content>
+      <categories>
+        <category>Markdown笔记</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HTML笔记</title>
+    <url>/2020/06/15/HTML%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h2 id="HTML笔记-2020-06-05"><a href="#HTML笔记-2020-06-05" class="headerlink" title="HTML笔记 2020-06-05"></a>HTML笔记 2020-06-05</h2><h3 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h3><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>AomiGa's BLOG<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"js/vue.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    helloworld</span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>HTML笔记</category>
+      </categories>
+      <tags>
+        <tag>HTML</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/06/14/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
